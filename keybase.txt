@@ -1,0 +1,59 @@
+---
+permalink: /keybase.txt
+---
+==================================================================
+https://keybase.io/crackersamdjam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ericpei.ca
+  * I am crackersamdjam (https://keybase.io/crackersamdjam) on keybase.
+  * I have a public key ASDAoBJ6yIs_JyfdM27PQYidjJ0G6hFOwJeUwa5M5FxUTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205f5544e860719fa1c9162a0a8d276b5e2f7a6f520f26eea5f685041faa4ab73c0a",
+      "host": "keybase.io",
+      "kid": "0120c0a0127ac88b3f2727dd336ecf41889d8c9d06ea114ec09794c1ae4ce45c544f0a",
+      "uid": "edfcddd27f0096d76dd714d98e78f319",
+      "username": "crackersamdjam"
+    },
+    "merkle_root": {
+      "ctime": 1604365882,
+      "hash": "8fc04dda849cc1d2841730a3ed86d0a9d802255ae7c9886c7095a5081eb1cb16b4466a005edca463cfe0d44b690983166ab8575f1a763d1d5cf9585e1857d789",
+      "hash_meta": "6ce5ae41bfdf6d6133f843f272b314f7321f1184c7b1eb73119d9ad172d0dcaa",
+      "seqno": 18000873
+    },
+    "service": {
+      "entropy": "QMeeZNMSG3/ntuEqDix1Jvi4",
+      "hostname": "ericpei.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1604365898,
+  "expire_in": 504576000,
+  "prev": "1704e876d0a1bd3781daf9acd2c05fd1ae7df1c6a6eb01bfdc342c1fde184694",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwKASesiLPycn3TNuz0GInYydBuoRTsCXlMGuTORcVE8Kp3BheWxvYWTESpcCFsQgFwTodtChvTeB2vms0sBf0a598cam6wG/3DQsH94YRpTEIMl/WtWK0Cos6X0RY4bvlNG6lv0MQGbSGE8QVwPP4LZiAgHCo3NpZ8RABopMbKGfakCdoVy/KsmX4HocV4+NLvGV7FlrlN6HTPJdhGvWO4FUtJsl+cs0KYTHCqFqPvdDkFICu4sWRfmbDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB7P8G7YiZUX4vl9oeqyQpIIiQCsikBZFhRvnq3kB7tyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/crackersamdjam
+
+==================================================================
