@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// add your style below
+
+// https://stackoverflow.com/a/39614958
+img[alt$=">"]{
+  // height: 20px; don't force height (since all the icons are wider anyway
+  width: 20px;
+}
