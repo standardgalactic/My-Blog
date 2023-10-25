@@ -1,9 +1,13 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
 
-// add your style below
+/* append your custom style below */
 
 // https://stackoverflow.com/a/39614958
 img[alt$=">"]{
