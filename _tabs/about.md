@@ -4,7 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to Eric Pei (crackersamdjam)'s blog site.
+Welcome to Crackers' blog site!
 
-I'm a second year Computer Science student at the University of Waterloo. I spend a lot of time writing [programming contests](https://ericpei.ca/posts/contest-history/). I also occasionally write blogs about programming. [Here](https://ericpei.ca/posts/what-is-this/) is the motivation behind my blogs.
+I'm a third year Computer Science undergrad at the University of Waterloo.
+
+In high school, I spent a lot of time writing [programming contests](https://ericpei.ca/posts/contest-history/). I initially created this site for my [programming blogs](https://ericpei.ca/posts/what-is-this/). Since starting university, I've put competitive programming aside to pursue other goals. I still do contests for fun, but haven't trained seriously in ages.
+
+I've written plenty about my university experiences and I've been thinking of making some blog posts out of them. We'll see if this happens...
+
+Cheers! 🍻
 
