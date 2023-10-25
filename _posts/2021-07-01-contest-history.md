@@ -28,7 +28,7 @@ Rating badges are available [here](https://github.com/crackersamdjam/Rating-Badg
 -->
 
 - ![image alt >](/assets/img/content/contest-history/icpc.png) [2022 East Central North America Regional ICPC](https://cs.uwaterloo.ca/news/waterloo-teams-among-top-15-at-2022-east-central-na-regional-icpc)
-  - 6<sup>th</sup> place
+  - 6<sup>th</sup> place team
 
 - ![image alt >](/assets/img/content/contest-history/icpc.png) [Winter 2023 ICPC-style Waterloo Local Contest](http://acm.student.cs.uwaterloo.ca/~acm00/230129score.html)
   - 2<sup>nd</sup> place
